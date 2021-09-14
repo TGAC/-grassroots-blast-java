@@ -283,5 +283,35 @@
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
     "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+  },
+  {
+    "uuid": "c482ac55-7075-47d9-8f37-cc6d395e18ad",
+    "authors": [
+			"Surbhi Grewal", 
+			"Ryan Joynson", 
+			"Benedict Coombes",
+			"Anthony Hall", 
+			"John Fellers",
+			"Cai-yun Yang", 
+			"Duncan Scholefield", 
+			"Stephen Ashling",
+			"Stella Hubbart-Edwards", 
+			"Peter Isaac", 
+			"Ian P. King", 
+			"Julie King"
+    ],
+    "projectName": "Whole genome sequencing of wheat wild relative Amblyopyrum muticum accession 21300012",
+    "description": "This is the raw sequencing data from whole genome shotgun sequencing of Amybylopyrum muticum accession 21300012. 101.86 Gbp (16.5x coverage) of 250bp paired-end reads were generated on an Illumina HiSeq 2500. This data has been used to develop chromosome-specific KASP markers for the detection of introgressed Am. muticum segments in hexaploid wheat/Am. muticum introgression lines. This project is a BBSRC Designing Future Wheat project led by the Wheat Research Centre at the University of Nottingham, with sequencing and bioinformatic analysis conducted by the Earlham Institute.",
+    "license": {
+      "so:name": "toronto",
+      "so:url": "https://www.nature.com/articles/461168a#Sec2"
+    },
+    "project_codes": [
+    ],
+    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum/",
+    "irods_path": "/grassrootsZone/public/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum",
+    "@type": "Grassroots:Project",
+    "type_description": "Dataset",
+    "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
   }
 ]
