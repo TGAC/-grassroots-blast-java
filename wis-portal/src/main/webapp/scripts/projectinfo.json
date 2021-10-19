@@ -16,7 +16,7 @@
       "BB/N005155/1",
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -37,7 +37,7 @@
     "project_codes": [
       "BBS/E/T/000PR9785"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Zhou_2019_RobxCla_UAV_Image_Data/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Zhou_2019_RobxCla_UAV_Image_Data/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Zhou_2019_RobxCla_UAV_Image_Data",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -65,7 +65,7 @@
     "project_codes": [
       "BB/J007188/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Martin_etal_2018_Alabdullah_etal_2019_wheat_meiosis_transcriptome_and_co-expression_network/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Martin_etal_2018_Alabdullah_etal_2019_wheat_meiosis_transcriptome_and_co-expression_network/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Martin_etal_2018_Alabdullah_etal_2019_wheat_meiosis_transcriptome_and_co-expression_network",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -86,7 +86,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Wulff_2018-01-31_OWWC/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Wulff_2018-01-31_OWWC/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Wulff_2018-01-31_OWWC",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -108,7 +108,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -131,7 +131,7 @@
       "BB/N005155/1",
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-01-29_Watkins-diversity-12Mb/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-01-29_Watkins-diversity-12Mb/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Gardiner_2018-01-29_Watkins-diversity-12Mb",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -156,7 +156,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Griffiths_2018-10-22_DFW-TK-NIL-Set2-2018-phenotypes/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Griffiths_2018-10-22_DFW-TK-NIL-Set2-2018-phenotypes/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Griffiths_2018-10-22_DFW-TK-NIL-Set2-2018-phenotypes",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -177,7 +177,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Riche_2020-07-13_DFW_Academic_Toolkit_Harvest_2020/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Riche_2020-07-13_DFW_Academic_Toolkit_Harvest_2020/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Riche_2020-07-13_DFW_Academic_Toolkit_Harvest_2020",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -198,7 +198,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_et_al_2017_Watkins_exome_capture_SNP_calls_VCF/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_et_al_2017_Watkins_exome_capture_SNP_calls_VCF/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Gardiner_et_al_2017_Watkins_exome_capture_SNP_calls_VCF",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -218,7 +218,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/2021-15-21_wheat_pantranscriptome/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/2021-15-21_wheat_pantranscriptome/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/2021-15-21_wheat_pantranscriptome",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -238,7 +238,7 @@
     "project_codes": [
       "BB/J003557/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Clavijo_2017-04-25_Wheat-LoLa/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Clavijo_2017-04-25_Wheat-LoLa/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Clavijo_2017-04-25_Wheat-LoLa",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -258,7 +258,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Wulff_2019-03-13_OWWC_lineage1/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Wulff_2019-03-13_OWWC_lineage1/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Wulff_2019-03-13_OWWC_lineage1",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -278,7 +278,7 @@
     "project_codes": [
       "BB/P016855/1"
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Brinton_etal_2020-05-20-Haplotypes-for-wheat-breeding/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Brinton_etal_2020-05-20-Haplotypes-for-wheat-breeding/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Brinton_etal_2020-05-20-Haplotypes-for-wheat-breeding",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -308,7 +308,7 @@
     },
     "project_codes": [
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
@@ -336,7 +336,7 @@
     },
     "project_codes": [
     ],
-    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2021-10-08_wheatxmuticum/",
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2021-10-08_wheatxmuticum/",
     "irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2021-10-08_wheatxmuticum",
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
