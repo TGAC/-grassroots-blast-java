@@ -313,5 +313,33 @@
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
     "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
-  }
+  },
+  {
+    "uuid": "0382d010-041e-4bee-b2d1-da3880238bf7",
+    "authors": [
+			"Benedict Coombes",
+			"John Fellers",
+			"Surbhi Grewal", 
+			"Rachel Rusholme-Pilcher", 			
+			"Stella Hubbart-Edwards", 
+			"Cai-yun Yang", 
+			"Ryan Joynson", 
+			"Ian P. King", 
+			"Julie King",
+			"Anthony Hall"
+    ],
+    "projectName": "Whole genome sequencing uncovers the structural and transcriptomic landscape of hexaploid wheat/Am. muticum introgression lines",
+    "description": "Synthetically derived introgression lines provide the raw material for the incorporation of alien variation into breeding programmes but a lack of genomic resolution and understanding of genomic impact limits their optimal utilisation. A high-resolution genomic analysis of a set of hexaploid wheat/Am. muticum introgression lines has uncovered new segments, defined introgression boundaries to a high-resolution and identified novel candidate genes for rust resistances. Large-scale structural disruption and analysis of gene expression provides important contributions to untangling the genomic impact of introgression breeding. Our outlined approach will provide an affordable way for breeders to better characterise introgression lines and more effectively deploy wild relative variation. This project is a BBSRC Designing Future Wheat project led by Earlham Institute, with introgression lines produced by the Wheat Research Centre at the University of Nottingham and nanopore sequencing conducted by John Fellers at USDA-ARS Hard Winter Wheat Genetics Research Unit, Manhattan, Kansas, USA.",
+    "license": {
+      "so:name": "toronto",
+      "so:url": "https://www.nature.com/articles/461168a#Sec2"
+    },
+    "project_codes": [
+    ],
+    "url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2021-10-08_wheatxmuticum/",
+    "irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2021-10-08_wheatxmuticum",
+    "@type": "Grassroots:Project",
+    "type_description": "Dataset",
+    "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+  }	
 ]
