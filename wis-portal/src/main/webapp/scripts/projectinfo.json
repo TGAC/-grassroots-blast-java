@@ -341,5 +341,31 @@
     "@type": "Grassroots:Project",
     "type_description": "Dataset",
     "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
-  }	
+  },
+{
+    "uuid": "d3991584-b05c-4fda-b257-9cd0f168a8a1",
+    "authors": [
+			"Brendan Fahy",
+			"Oscar Gonzalez",
+			"George M. Savva", 
+			"Jennifer H. Ahn-Jarvis", 			
+			"Frederick J. Warren", 
+			"Jack Dunn", 
+			"Alison Lovegrove", 
+			"Brittany A. Hazard"
+    ],
+    "projectName": "Starch Synthase IIIa Wheat TILLING",
+    "description": "To discover whether manipulation of Starch Synthase IIIa (SSIIIa) expression can alter starch properties and elevate levels of resistant starch in wheat we have generated a novel set of mutants in the elite bread wheat cultivar Cadenza carrying combinations of null mutations in SSIIIa homoeologues. In this project we describe the development and characterization of the starch and grain properties of the ssIIIa TILLING mutants..",
+    "license": {
+      "so:name": "toronto",
+      "so:url": "https://www.nature.com/articles/461168a#Sec2"
+    },
+    "project_codes": [
+    ],
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hazard_2022_02_09_ssIIIa_TILLING_phenotype_data/",
+    "irods_path": "/grassrootsZone/public/under_license/toronto/Hazard_2022_02_09_ssIIIa_TILLING_phenotype_data/",
+    "@type": "Grassroots:Project",
+    "type_description": "Dataset",
+    "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+  }	  
 ]
