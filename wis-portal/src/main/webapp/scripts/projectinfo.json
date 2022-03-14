@@ -384,5 +384,26 @@
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+	},
+	{
+		"uuid": "8fc6f647-5669-40f0-a4db-22b684c56312",
+		"authors": [
+			"Richard Horsnell",
+			"Fiona Leigh",
+			"Tally Wright",
+			"Alison Bentley"
+		],
+		"projectName": "NIAB AB_CSSL glasshouse trial H2020",
+		"description": "This population of Chromosome Segment Substitution Lines ( CSSL's ) captures genetic variation from a Triticum dicoccoides accession Ttd140. Each line contains a unique introgression of tetraploid genome in a near isogenic  background. This population was generated within work package 3 of Designing Future Wheat and funded by the BBSRC.",
+		"license": {
+			"so:name": "toronto",
+			"so:url": "https://www.nature.com/articles/461168a#Sec2"
+		},
+		"project_codes": [],
+		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_glasshouse_trial_H2020/",
+		"irods_path": "/grassrootsZone/public/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_glasshouse_trial_H2020",
+		"@type": "Grassroots:Project",
+		"type_description": "Dataset",
+		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
 	}
 ]
