@@ -1,4 +1,5 @@
-[{"uuid": "07d36151-c209-477f-9e55-d1b11becfb8c",
+[{
+		"uuid": "07d36151-c209-477f-9e55-d1b11becfb8c",
 		"authors": [
 			"Marina Millan-Blanquez",
 			"Matthew Hartley",
@@ -18,8 +19,8 @@
 			"BB/N005155/1",
 			"BB/P016855/1"
 		],
-		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture/",
-		"irods_path": "/grassrootsZone/public/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture",
+		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Millan-Blanquez_etal_2022_machine-learning-carpel-traits/",
+		"irods_path": "/grassrootsZone/public/under_license/toronto/Millan-Blanquez_etal_2022_machine-learning-carpel-traits",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
