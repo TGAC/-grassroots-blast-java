@@ -1,4 +1,30 @@
-[{
+[{"uuid": "07d36151-c209-477f-9e55-d1b11becfb8c",
+		"authors": [
+			"Marina Millan-Blanquez",
+			"Matthew Hartley",
+			"Nicholas Bird",
+			"Yann Manes",
+			"Cristobal Uauy",
+			"Scott Boden"
+		],
+		"projectName": "A scalable phenotyping approach for female floral organ development and senescence in the absence of pollination in wheat",
+		"description": "New automated phenotyping method for stigma and ovary development in wheat which highlights the potential for genetic variation that could benefit hybrid breeding",
+		"license": {
+			"so:name": "toronto",
+			"so:url": "https://www.nature.com/articles/461168a#Sec2"
+		},
+		"project_codes": [
+			"BB/N005104/1",
+			"BB/N005155/1",
+			"BB/P016855/1"
+		],
+		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture/",
+		"irods_path": "/grassrootsZone/public/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture",
+		"@type": "Grassroots:Project",
+		"type_description": "Dataset",
+		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+	},
+	{
 		"uuid": "ffc3e90f-7f89-4934-8e35-943bb64d1789",
 		"authors": [
 			"Anthony Hall",
