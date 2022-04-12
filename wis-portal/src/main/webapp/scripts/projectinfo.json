@@ -1,4 +1,41 @@
 [{
+	"uuid": "3973cc2d-924c-4e6d-9a2c-7acdb8b05a3f",
+	"authors": [
+		"Ryan Joynson",
+		"Gemma Molero",
+		"Benedict Coombes",
+		"Laura-Jayne Gardiner",
+		"Carolina Rivera-Amado",
+		"Francisco J. Piñera-Chavez",
+		"Francisco Pinto",
+		"John R. Evans",
+		"Robert T. Furbank",
+		"Matthew P. Reynolds",
+		"Anthony Hall"
+	],
+	"projectName": "Genotype data for HiBAP I and HiBAP II, spring wheat association mapping panels developed at CIMMYT",
+	"description": "New automated phenotyping method for stigma and ovary development in wheat which highlights the potential for genetic variation that could benefit hybrid breeding.",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/N020871/1",
+		"BB/P016855/1",
+		"BBS/E/T/000PR9816",
+		"BBS/E/T/000PR9814",
+		"BBS/E/T/000PR9783",
+		"DFs-19-0000000013",
+		"BB/CSP1720/1",
+		"BB/M011216/1"
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2022-04-08_HiBAP_genotyping/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2022-04-08_HiBAP_genotyping",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+},
+	{
 	"uuid": "21e4a566-070b-4a80-bc93-68a798a50ac4",
 	"authors": [
 		"Julie King",
