@@ -1,4 +1,39 @@
 [{
+	"uuid": "21e4a566-070b-4a80-bc93-68a798a50ac4",
+	"authors": [
+		"Julie King",
+		" Surbhi Grewal",
+		" Manel Othmeni",
+		"Benedict Coombes",
+		"Cai-yun Yang",
+		"Nicola Walters",
+		"Stephen Ashling",
+		"Duncan Scholefield",
+		"Jack Walker",
+		"Stella Hubbart-Edwards",
+		"Anthony Hall",
+		"Ian King"
+	],
+	"projectName": "Introgression of the Triticum timopheevii genome into wheat detected by chromosome-specific KASP markers",
+	"description": "Triticum timopheevii (2n=28, AAGG) is a tetraploid wild relative species with great potential to increase the genetic diversity of hexaploid wheat Triticum aestivum (2n=42, AABBDD) for various important agronomic traits. A breeding scheme that propagated advanced backcrossed populations of wheat-T. timopheevii introgression lines through further backcrossing and self-fertilisation resulted in the generation of 99 introgression lines (ILs) that carried 309 homozygous segments from the A and G subgenomes of T. timopheevii. These homozygous introgressions were detected through the development of a set of 480 chromosome-specific Kompetitive allele specific PCR (KASP) markers that are well-distributed across the wheat genome. Of these, 149 were developed in this study based on single nucleotide polymorphisms (SNPs) discovered through whole genome sequencing of T. timopheevii. Together these homozygous wheat-T. timopheevii ILs and chromosome-specific KASP markers provide an invaluable resource to wheat breeders for trait discovery to combat biotic and abiotic stress factors brought upon wheat production due to climate change.",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/J004596/1",
+		"BB/P016855/1",
+		"BB/M011216/1",
+		"BBS/E/T/000PR9816",
+		"BB/CCG1720/1"
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/King_2022-04-08_Triticumtimopheevii/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/King_2022-04-08_Triticumtimopheevii",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+        },
+	{
 		"uuid": "07d36151-c209-477f-9e55-d1b11becfb8c",
 		"authors": [
 			"Marina Millan-Blanquez",
