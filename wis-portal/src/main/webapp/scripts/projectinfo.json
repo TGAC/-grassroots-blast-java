@@ -6,7 +6,7 @@
 		"Benedict Coombes",
 		"Laura-Jayne Gardiner",
 		"Carolina Rivera-Amado",
-		"Francisco J. Piñera-Chavez",
+		"Francisco J. Pinera-Chavez",
 		"Francisco Pinto",
 		"John R. Evans",
 		"Robert T. Furbank",
@@ -14,7 +14,7 @@
 		"Anthony Hall"
 	],
 	"projectName": "Genotype data for HiBAP I and HiBAP II, spring wheat association mapping panels developed at CIMMYT",
-	"description": "New automated phenotyping method for stigma and ovary development in wheat which highlights the potential for genetic variation that could benefit hybrid breeding.",
+	"description": "VCF files and hapmap files for HiBAP I and HiBAP II. This data has been used for two genome-wide association studies to date: for photosynthetic efficiency and for heat tolerance. Variants were called from enrichment capture sequencing data mapped to RefSeq v1.0. Details of how the data was processed can be found in Joynson et al., 2021 (https://doi.org/10.1111/pbi.13568).",
 	"license": {
 		"so:name": "toronto",
 		"so:url": "https://www.nature.com/articles/461168a#Sec2"
