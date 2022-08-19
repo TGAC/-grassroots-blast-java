@@ -1,4 +1,25 @@
 [{
+	"uuid": "8da600b7-ffbd-4c1d-8278-8b9ef129e3a3",
+	"authors": [
+		"Anil Thanki",
+		"Wilfried Haerty"
+	],
+	"projectName": "Wheat lncRNAs",
+	"description": "Denovo annotation of novel intergenic lncRNAs in wheat cultivars.",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/N"
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Thanki_2022_wheat_lncRNAs/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/Thanki_2022_wheat_lncRNAs",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+},
+{
 	"uuid": "3973cc2d-924c-4e6d-9a2c-7acdb8b05a3f",
 	"authors": [
 		"Ryan Joynson",
