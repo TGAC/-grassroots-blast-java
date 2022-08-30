@@ -14,7 +14,8 @@
 		"so:url": "https://www.nature.com/articles/461168a#Sec2"
 	},
 	"project_codes": [
-		"G"
+		"CT509E12M",
+		"CDFW2E12A"
 	],
 	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Uauy_2022-09-24_IBSpy_Triticum_monococcum_introgressions/",
 	"irods_path": "/grassrootsZone/public/under_license/toronto/Uauy_2022-09-24_IBSpy_Triticum_monococcum_introgressions",
