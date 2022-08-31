@@ -7,7 +7,7 @@
 		"Cristobal Uauy",
 		"Simon G. Krattinger"
 	],
-	"projectName": "IBSpy analysis to detect Triticum monococcum into domesticated hexaploid wheat",
+	"projectName": "IBSpy analysis to detect Triticum monococcum introgressions into domesticated hexaploid wheat",
 	"description": "This dataset was used in the manuscript Einkorn genomics sheds light on evolutionary history of the oldest domesticated wheat. We implemented the Identity-by-State python (IBSpy: https://github.com/Uauy-Lab/IBSpy) pipeline and used it to identify T. monococcum introgressions in the ten hexaploid wheat pangenome cultivars. We used IBSpy and k-mer databases from multiple genotypes, including the Illumina raw data (~10-fold) of 218 T. monococcum accessions, two T. monococcum chromosome-scale assemblies, and ten genome assemblies of wheat (Walkowiak et al., 2020). We counted variations using 50-kbp windows. For details about how IBSpy detects variations, please, read the documentation. To estimate the variations cut-off and sequence identity to detect T. monococcum introgressions, we compared the published pairwise MUMmer alignments (Brinton et al., 2020) of the ten pangenome cultivars (ArinaLrFor, Chinese Spring, Jagger, Julius, LongReach Lancer, CDC Landmark, Mace, Norin 61, Stanley, SY_Mattis) and the two T. monococcum assemblies generated here (TA299 and TA10622) with the corresponding variations counts from IBSpy. In total, there were 110 pairwise alignments analyzed, and we focused on the seven A genome chromosomes.",
 	"license": {
 		"so:name": "toronto",
