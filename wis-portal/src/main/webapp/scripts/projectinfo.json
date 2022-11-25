@@ -1,4 +1,32 @@
 [{
+	"uuid": "A80497fd-5371-4566-99e4-1454516b10b1",
+	"authors": [
+		"Benedict Coombes",
+		"Surbhi Grewal",
+		"Julie King",
+		"Stella Hubbart-Edwards",
+		"Cai-yun Yang",
+		"Ian P King",
+		"Anthony Hall"
+	],
+	"projectName": "Whole genome sequencing of wheat wild relatives",
+	"description": "Whole genome sequencing of 8 wild relatives of wheat, with a total of 17 accessions. This was generated to facilitate the characterisation of sets of wild relative introgression lines produced by the BBSRC Wheat Research Centre at the University of Nottingham.",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/CCG1720/1",
+		"BB/P016855/1",
+		"BB/J004596/1"
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2022-11-22_wheat_wild_relatives/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2022-11-22_wheat_wild_relatives",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+        },
+	{
 	"uuid": "9bdde1fa-3eb1-4845-b858-9fe17a379f4c",
 	"authors": [
 		"Hanin Ibrahim Ahmed",
