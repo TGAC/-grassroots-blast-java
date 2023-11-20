@@ -1,4 +1,57 @@
 [{
+	"uuid": "1e38d2c3-9168-4769-a389-b7f29542ad82",
+	"authors": [
+		"Benjamen White",
+		"Thomas Lux",
+		"Rachel Rusholme-Pilcher",
+		"Angela Juhasz",
+		"Gemy Kaithakottil",
+		"Susan Duncan",
+		"James Simmonds",
+		"Hannah Rees",
+		"Jonathan Wright",
+		"Josh Colmer",
+		"Sabrina Ward",
+		"Ryan Joynson",
+		"Benedict Coombes",
+		"Naomi Irish",
+		"Suzanne Henderson",
+		"Tom Barker",
+		"Helen Chapman",
+		"Leah Catchpole",
+		"Karim Gharbi",
+		"Kentaro Shimizu",
+		"Heidrun Gundlach",
+		"Daniel Lang",
+		"Guy Naamati",
+		"Wilfried Haerty",
+		"Cristobal Uauy",
+		"David Swarbreck",
+		"Philippa Borrill",
+		"Klaus F.X. Mayer",
+		"Curtis Pozniak",
+		"10+ Wheat Genome Project Consortium",
+		"Manuel Spannagl",
+		"Anthony Hall"
+	],
+	"projectName": "De novo annotation and pan-transcriptome analysis of multiple wheat genomes",
+	"description": "De novo annotation of 9 wheat cultivars (ARI, JAG, JUL, LAN, LER, MAC, MAT, NOR, STA) and pan-transcriptome analysis of these and an additional 5 UK wheat cultivars (CAD, CLA, PAR, ROB, WEE).",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/P016855/1",
+		"BBX011003/1",
+		"BBX011089/1"
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2024-01-01_wheat_pantranscriptome/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2024-01-01_wheat_pantranscriptome",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+},
+{
 	"uuid": "ef2d738e-a738-4b83-b293-0c217ab4c2fd",
 	"authors": [
 "Shifeng Cheng",
