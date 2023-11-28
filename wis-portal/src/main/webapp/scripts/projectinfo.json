@@ -1,4 +1,40 @@
 [{
+	"uuid": "90f70e4c-8ca2-4285-95ed-3821b833b1ce",
+	"authors": [
+	"Jonathan Wright",
+	"Gemy Kaithakottil",
+	"Rachel Rusholme-Pilcher",
+	"Thomas Lux",
+	"Fiona Fraser",
+	"Leah Catchpole",
+	"Naomi Irish",
+	"Vanda Knitlhoffer",
+	"Alex Durrant",
+	"Heidrun Gundlach",
+	"Tom Barker",
+	"Chris Watkins",
+	"Karim Gharbi",
+	"Manuel Spannagl",
+	"David Swarbeck",
+	"Anthony Hall"
+	],
+	"projectName": "Paragon long read assembly",
+	"description": "A genome assembly of the UK elite hexaploid wheat line ‘Paragon’. This assembly was generated using HiFi and ONT reads and scaffolded into chromosomes using HiC. It is being released prior to publication to DSW members under the Toronto agreement.",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/P016855/1",
+		"BBX011003/1"		
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2023-08-08_Taes_paragon_v2/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2023-08-08_Taes_paragon_v2",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+	},
+	{
 	"uuid": "1e38d2c3-9168-4769-a389-b7f29542ad82",
 	"authors": [
 		"Benjamen White",
