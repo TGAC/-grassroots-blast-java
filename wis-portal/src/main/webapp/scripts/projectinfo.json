@@ -1,4 +1,29 @@
-[{
+[
+       {
+	"uuid": "03d55fc9-92a6-4e31-ab0b-46dc21a4a82f",
+	"authors": [
+	"John Connell",
+	"Lawrence Percival-Alwyn",
+	"Tally I. C. Wright",
+	"Philip Howell"	
+	],
+	"projectName": "Sequence variants for key tetraploid wheat components within NIAB DFW germplasm",
+	"description": "Sequence variants for wild emmer accession ‘TTD-140’ (donor for NIAB_AB_CSSL lines) and durum wheat ‘Hoh-501’ (most commonly used tetraploid component of NIAB Synthetic Hexaploid Wheat lines).",
+	"license": {
+		"so:name": "toronto",
+		"so:url": "https://www.nature.com/articles/461168a#Sec2"
+	},
+	"project_codes": [
+		"BB/P016855/1",
+		"BB/X018725/1"		
+	],
+	"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Howell_2024_05_17_Tetraploid_sequencing/",
+	"irods_path": "/grassrootsZone/public/under_license/toronto/Howell_2024_05_17_Tetraploid_sequencing",
+	"@type": "Grassroots:Project",
+	"type_description": "Dataset",
+	"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+	},	
+	{
 	"uuid": "90f70e4c-8ca2-4285-95ed-3821b833b1ce",
 	"authors": [
 	"Jonathan Wright",
