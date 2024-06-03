@@ -8,7 +8,7 @@
 	"Philip Howell"	
 	],
 	"projectName": "Sequence variants for key tetraploid wheat components within NIAB DFW germplasm",
-	"description": "Sequence variants for wild emmer accession ‘TTD-140’ (donor for NIAB_AB_CSSL lines) and durum wheat ‘Hoh-501’ (most commonly used tetraploid component of NIAB Synthetic Hexaploid Wheat lines).",
+	"description": "Sequence variants for wild emmer accession 'TTD-140' (donor for NIAB_AB_CSSL lines) and durum wheat 'Hoh-501' (most commonly used tetraploid component of NIAB Synthetic Hexaploid Wheat lines). This work was supported by the BBSRC through the Cross-Institute Strategic Program 'Designing Future Wheat' (BB/P016855/1) and the Bioinformatics and Biological Resources Fund research grant 'Ensembl Plant Populations' (BB/X018725/1). More information about the methodology used can be found on https://niab.github.io/niab-dfw-wp3/jekyll/update/2024/05/31/Sequence-variants-for-key-tetraploid-wheat-components-within-NIAB-DFW-germplasm.html",
 	"license": {
 		"so:name": "toronto",
 		"so:url": "https://www.nature.com/articles/461168a#Sec2"
