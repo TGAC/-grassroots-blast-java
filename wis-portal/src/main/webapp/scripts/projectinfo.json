@@ -1,4 +1,39 @@
-[
+[      {
+    "uuid": "16c2a429-d05d-4658-b5c2-0ece632e9e2c",
+    "authors": [
+    "Jonathan Wright",
+    "Gemy Kaithakottil",
+    "Rachel Rusholme-Pilcher",
+    "Thomas Lux",
+    "Fiona Fraser",
+    "Leah Catchpole",
+    "Naomi Irish",
+    "Vanda Knitlhoffer",
+    "Alex Durrant",
+    "Heidrun Gundlach",
+    "Tom Barker",
+    "Chris Watkins",
+    "Karim Gharbi",
+    "Manuel Spannagl",
+    "David Swarbeck",
+    "Anthony Hall"
+    ],
+    "projectName": "Paragon long read assembly",
+    "description": "<p> A genome assembly and annotation of the UK elite hexaploid wheat line Paragon. This assembly was generated using PacBio HiFi and ultra-long ONT reads then scaffolded into chromosomes using Omni-C. Annotation was performed using REAT. It is being released prior to publication to DSW members. </p> <p>The latest version is v3 which contains the following changes compared to v2; </p> <ul><li> Chromosomes 1A, 2A, 2B, 3B, 4A, 5A, and 6D have been reverse complemented, and the annotation for these chromosomes has been updated to match the chromosome orientation of CS42.  </li> <li> Some unanchored scaffolds identified as contamination have been removed. </li> </ul> ",
+    "license": {
+            "so:name": "toronto",
+            "so:url": "https://www.nature.com/articles/461168a#Sec2"
+    },
+    "project_codes": [
+            "BB/P016855/1",
+            "BBX011003/1"
+    ],
+    "so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2023-08-08_Taes_paragon/",
+    "irods_path": "/grassrootsZone/public/under_license/toronto/Hall_2023-08-08_Taes_paragon",
+    "@type": "Grassroots:Project",
+    "type_description": "Dataset",
+    "so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
+      },
        {
 	"uuid": "03d55fc9-92a6-4e31-ab0b-46dc21a4a82f",
 	"authors": [
